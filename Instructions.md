@@ -1,6 +1,6 @@
-# Unit 10 Assignment - SQL
+# SQL Exercises
 
-### Create these queries to develop greater fluency in SQL, an important database language.
+### Create these queries to develop greater fluency in SQL.
 
 * 1a. You need a list of all the actors who have Display the first and last names of all actors from the table `actor`. 
 
