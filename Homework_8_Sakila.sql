@@ -1,4 +1,4 @@
--- Homework 8: Working with MySQL Queries --
+-- Working with MySQL Queries --
 
 USE sakila;
 
